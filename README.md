@@ -1,2 +1,2 @@
 # Deep-Learning-in-Scientific-Computing
-This repository contains the project for the Deep Learning in Scientific Class I followed at ETHZ.
+This repository contains the project I did for the Deep Learning in Scientific Computing class I followed at ETHZ.
